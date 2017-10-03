@@ -5,10 +5,10 @@ using System.Text;
 using System.Threading.Tasks;
 using System.ComponentModel;
 using System.Collections.ObjectModel;
-using MVVMExample.Models;
-using MVVMExample.ViewModels;
+using Models;
+using ViewModels;
 
-namespace MVVMExample.ViewModels
+namespace ViewModels
 {
     public class OrganizationViewModel : NotificationBase
     {

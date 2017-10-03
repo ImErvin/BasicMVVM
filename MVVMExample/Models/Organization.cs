@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using MVVMExample.Data;
+using Data;
 
-namespace MVVMExample.Models
+namespace Models
 {
     class Organization
     {

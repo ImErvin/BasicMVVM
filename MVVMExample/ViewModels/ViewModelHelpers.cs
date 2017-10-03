@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using System.ComponentModel;
 using System.Runtime.CompilerServices;
 
-namespace MVVMExample.ViewModels
+namespace ViewModels
 {
     public class NotificationBase : INotifyPropertyChanged
     {

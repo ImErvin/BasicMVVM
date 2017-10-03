@@ -3,10 +3,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using MVVMExample.Data;
-using MVVMExample.ViewModels;
+using Data;
+using ViewModels;
 
-namespace MVVMExample.ViewModels
+namespace ViewModels
 {
     public class PersonViewModel : NotificationBase<Person>
     {
